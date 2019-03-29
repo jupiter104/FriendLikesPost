@@ -1,0 +1,7 @@
+C:\Users\Debashis\source\repos\FriendLikesPost\FriendLikesPost\bin\Debug\FriendLikesPost.exe.config
+C:\Users\Debashis\source\repos\FriendLikesPost\FriendLikesPost\bin\Debug\FriendLikesPost.exe
+C:\Users\Debashis\source\repos\FriendLikesPost\FriendLikesPost\bin\Debug\FriendLikesPost.pdb
+C:\Users\Debashis\source\repos\FriendLikesPost\FriendLikesPost\obj\Debug\FriendLikesPost.csprojAssemblyReference.cache
+C:\Users\Debashis\source\repos\FriendLikesPost\FriendLikesPost\obj\Debug\FriendLikesPost.csproj.CoreCompileInputs.cache
+C:\Users\Debashis\source\repos\FriendLikesPost\FriendLikesPost\obj\Debug\FriendLikesPost.exe
+C:\Users\Debashis\source\repos\FriendLikesPost\FriendLikesPost\obj\Debug\FriendLikesPost.pdb
